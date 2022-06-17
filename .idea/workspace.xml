@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="454f4818-cb69-4622-b6d2-854c61fa8440" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/docker-images.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/docker-images.yml" afterDir="false" />
-    </list>
+    <list default="true" id="454f4818-cb69-4622-b6d2-854c61fa8440" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655453421556</updated>
-      <workItem from="1655453423631" duration="1014000" />
+      <workItem from="1655453423631" duration="1320000" />
     </task>
     <servers />
   </component>
